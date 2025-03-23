@@ -1,0 +1,32 @@
+.container{
+    width: 700px;
+    height: 400px;
+    background-color: aqua;
+    display: flex;
+}
+
+.detail{
+    width: 400px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+
+}
+.head{
+    width: 350px;
+    height: 200px;
+    background-color: aquamarine;
+
+}
+
+.para{
+    width: 350px;
+    height: 150px;
+    background-color: beige;
+    margin-top: 10px;
+}
+.login{
+    background-color: bisque;
+    width: 200px;
+    height: 400px;
+}
